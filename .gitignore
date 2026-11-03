@@ -1,0 +1,3 @@
+# Admin portal only works with the Node server, so keep it off GitHub Pages
+admin.html
+js/admin.js

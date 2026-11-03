@@ -1,0 +1,1080 @@
+{
+  "site": {
+    "name": "Christian Fils-Aime",
+    "role": "Mechanical engineering student",
+    "school": "Stevens Institute of Technology",
+    "location": "Hoboken, NJ",
+    "email": "christianfils78@gmail.com",
+    "phone": "",
+    "linkedin": "www.linkedin.com/in/christian-fils-aime-a7b794398",
+    "photo": "assets/img/christian.jpg",
+    "resumePdf": "assets/Christian-Fils-Aime-Resume.pdf",
+    "seeking": "Seeking a mechanical engineering internship",
+    "headline": "I design parts in CAD, then print, cast and machine them until they work.",
+    "summary": "I'm a mechanical engineering student at Stevens Institute of Technology. Over two seasons of FIRST Tech Challenge robotics, the Stevens PEP electric boat team, and a steady run of personal builds, I've learned to take an idea from a sketch to a SolidWorks or Fusion 360 model to a part I can test in my hands, and to keep iterating until it meets the spec.",
+    "strengths": [
+      {
+        "title": "Iterative prototyping",
+        "text": "Molds, enclosures and fixtures redesigned through several printed versions until they meet size, print-time and load requirements."
+      },
+      {
+        "title": "From CAD to a physical part",
+        "text": "SolidWorks and Fusion 360 modeling paired with 3D printing, silicone casting, and manual mill and lathe work."
+      },
+      {
+        "title": "Whole-system builds",
+        "text": "Comfortable integrating mechanical design with sensors, microcontrollers, batteries and wiring."
+      },
+      {
+        "title": "Reliable teammate",
+        "text": "Four years of varsity lacrosse, three of varsity rowing, robotics lead builder, and social chair of the e-boat team."
+      }
+    ],
+    "skills": [
+      {
+        "group": "CAD and design",
+        "items": [
+          "SolidWorks parts, assemblies and drawings",
+          "Fusion 360 modeling and rendering",
+          "Design for 3D printing",
+          "Mold design for casting"
+        ]
+      },
+      {
+        "group": "Fabrication",
+        "items": [
+          "FDM 3D printing (PLA, TPU, PETG, etc;)",
+          "Two-part silicone mold casting",
+          "Manual milling machine",
+          "Manual lathe",
+          "Woodworking",
+          "Sewing and pattern-making"
+        ]
+      },
+      {
+        "group": "Electronics and code",
+        "items": [
+          "Arduino / C++",
+          "Raspberry Pi",
+          "Ultrasonic, DHT11 and soil sensors",
+          "LiPo packs, boost converters and power wiring",
+          "Soldering",
+          "Circuitry"
+        ]
+      }
+    ],
+    "interests": [
+      {
+        "title": "Rock climbing",
+        "text": "6 to 10 hours a week; I designed my own hangboard for it."
+      },
+      {
+        "title": "Sewing and pattern-making",
+        "text": "Self-taught; I draft patterns and sew pants and chalk bags from scratch."
+      },
+      {
+        "title": "Team sports",
+        "text": "Varsity lacrosse and rowing through high school."
+      }
+    ],
+    "history": [
+      {
+        "when": "2021 – 2025",
+        "title": "The Stony Brook School",
+        "detail": "Advanced Placement coursework. Varsity lacrosse, rowing, robotics, Peer Mentor Captain and International Council member."
+      },
+      {
+        "when": "2023 – 2025",
+        "title": "FTC Team 10738, SBS Bears",
+        "detail": "Builder, then intake-system lead. Designed and hand-cast silicone intake wheels across two competition seasons."
+      },
+      {
+        "when": "2024 – 2025",
+        "title": "The Arbors Assisted Living",
+        "detail": "Recreational assistant, then dining server."
+      },
+      {
+        "when": "2025 – now",
+        "title": "Stevens Institute of Technology",
+        "detail": "B.E. in Mechanical Engineering. "
+      },
+      {
+        "when": "2025 – now",
+        "title": "Stevens PEP Electric Boat Team",
+        "detail": "CAD and fabrication for the manned boat's cooling system; team social chair."
+      },
+      {
+        "when": "2026 – now",
+        "title": "Sparrow Wine & Liquor",
+        "detail": "Expediter balancing online orders, register, stock and customer service."
+      }
+    ]
+  },
+  "about": {
+    "heading": "About me",
+    "intro": "My interest in engineering started with watching creators design and build inventive machines. It turned into a commitment to learn how to make useful, well-engineered things of my own.",
+    "paragraphs": [
+      "In high school I took every robotics, 3D modeling, manufacturing and programming course I could. In my junior year I joined the school's FIRST Tech Challenge team, and by my senior year I was leading the intake subsystem: designing compression molds in Fusion 360, printing them, and hand-casting silicone wheels that pulled game pieces into the robot. I also worked on prototype parametric chassis and drivetrains. Those seasons taught me to move from an idea to a working design, test decisions against real constraints, and work toward a shared goal on a deadline.",
+      "At Stevens I'm studying mechanical engineering, with coursework centered on physics, mathematics, CAD, engineering design and electrical systems. In my engineering design classes I've been the primary designer and builder for my group's automated plant-watering enclosure and our autonomous sensor robot. Outside class I do CAD and fabrication work on the cooling system for the PEP electric boat team's manned boat, and I serve as the team's social chair.",
+      "I keep a personal project going at all times. Right now that's a cyberdeck: a portable computer built around a Raspberry Pi 4 and a 7-inch touchscreen, powered by a battery system I designed, inside a case I modeled and printed in the Stevens makerspace. It has taught me a lot about integrating mechanical, electrical and computing parts into one product.",
+      "When I'm not in the shop, I'm usually climbing , sewing something, or working a shift. I'm looking for an internship where I can contribute to real mechanical design, manufacturing or product development work and learn from experienced engineers."
+    ],
+    "facts": [
+      {
+        "label": "Studying",
+        "value": "B.E. Mechanical Engineering, Stevens Institute of Technology"
+      },
+      {
+        "label": "Based in",
+        "value": "Hoboken, NJ, and Central Islip, NY"
+      },
+      {
+        "label": "Tools",
+        "value": "SolidWorks, Fusion 360, FDM printers, manual mill and lathe"
+      },
+      {
+        "label": "Looking for",
+        "value": "Mechanical engineering internships"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Get in touch",
+    "intro": "Have an internship opening, a question about a project, or any other concern? Send a message and I'll reply by email."
+  },
+  "projects": [
+    {
+      "id": "cyberdeck",
+      "title": "Raspberry Pi cyberdeck",
+      "subtitle": "A portable computer with a custom battery system and printed case",
+      "category": "Personal",
+      "context": "Personal project",
+      "period": "spring 2026",
+      "status": "In progress",
+      "team": "Solo",
+      "role": "Designer and builder",
+      "tools": [
+        "SolidWorks",
+        "FDM printing",
+        "Raspberry Pi"
+      ],
+      "hidden": false,
+      "cover": "assets/uploads/cyberdeck/screenshot_2026-10-30_162204-1.png",
+      "preview": {
+        "type": "image",
+        "frames": [],
+        "model": ""
+      },
+      "blurb": "A clamshell laptop around a Raspberry Pi 4 and 7-inch touchscreen, powered by 40,000 mAh of LiPo cells in a case I designed and printed.",
+      "outcome": "I'm building a portable computer around a 4 GB Raspberry Pi 4 Model B and the 7-inch Raspberry Pi Touch Display 2. I designed the clamshell case in SolidWorks and printed it in the Stevens makerspace, and designed a two-pack LiPo power system that charges over USB-C. Total parts cost so far is $252.17.",
+      "sections": [
+        {
+          "heading": "Goal",
+          "body": "Integrate a computer, display, keyboard and battery into one enclosure I designed myself, balancing size, weight, heat and battery life."
+        },
+        {
+          "heading": "Power system",
+          "body": "The case splits into two halves that can disconnect. Each half has its own LiPo pack and charging board, and the halves connect over USB-C.",
+          "bullets": [
+            "USB-C input charges three 10,000 mAh 3.7 V cells wired in parallel",
+            "A second module boosts that pack to 5 V 2 A and feeds the other half over USB-C",
+            "The other half charges two 5,000 mAh cells in parallel",
+            "A rocker power switch and 5 A inline fuse protect the positive line",
+            "An XL6019 boost converter supplies 5 V to the Pi, with a 1000–2200 µF capacitor across the output to smooth load spikes"
+          ]
+        },
+        {
+          "heading": "Enclosure",
+          "body": "The case holds the display in the lid and the keyboard, Pi and batteries in the base. Right-angle USB-C extensions and a replacement ribbon cable keep the cable runs short and inside the shell."
+        }
+      ],
+      "specs": [
+        {
+          "label": "Computer",
+          "value": "Raspberry Pi 4 Model B, 4 GB"
+        },
+        {
+          "label": "Display",
+          "value": "Raspberry Pi Touch Display 2, 7 in"
+        },
+        {
+          "label": "Battery",
+          "value": "3 × 10,000 mAh + 2 × 5,000 mAh LiPo"
+        },
+        {
+          "label": "Protection",
+          "value": "5 A inline fuse, rocker switch"
+        },
+        {
+          "label": "Keyboard",
+          "value": "7–8 in wireless"
+        },
+        {
+          "label": "Parts cost",
+          "value": "$252.17"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "Planning",
+          "text": "Parts list, cost and wiring plan"
+        },
+        {
+          "date": "Fall 2026",
+          "text": "Case printed; electronics fitted and wired"
+        },
+        {
+          "date": "Next",
+          "text": "Final assembly and battery-life testing"
+        }
+      ],
+      "gallery": [
+        {
+          "src": "assets/uploads/cyberdeck/screenshot_2026-10-30_162204-1.png",
+          "caption": "3d model of closed case"
+        },
+        {
+          "src": "assets/uploads/cyberdeck/screenshot_2026-10-30_162052-1.png",
+          "caption": "3d model of open case "
+        },
+        {
+          "src": "assets/uploads/cyberdeck/screenshot_2026-10-30_162107-1.png",
+          "caption": "3d model of open case and visible inner components "
+        },
+        {
+          "src": "assets/projects/cyberdeck/open-internals.jpg",
+          "caption": "Display installed in the lid, base open with electronics and battery bay"
+        },
+        {
+          "src": "assets/projects/cyberdeck/closed-keyboard.jpg",
+          "caption": "Keyboard seated in the printed base"
+        },
+        {
+          "src": "assets/uploads/cyberdeck/cd_full_assembly-1-.stl.stl",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "smart-watering-device",
+      "title": "Book of Life smart watering device",
+      "subtitle": "A 3D-printed IoT plant-care enclosure designed to look like a book",
+      "category": "Coursework",
+      "context": "ENGR 111 Design and Graphics, Stevens",
+      "period": "Fall 2025",
+      "status": "Complete",
+      "team": "3 students",
+      "role": "Lead mechanical designer",
+      "tools": [
+        "SolidWorks",
+        "FDM printing",
+        "ESP32"
+      ],
+      "hidden": false,
+      "cover": "assets/projects/smart-watering-device/deployed.jpg",
+      "preview": {
+        "type": "image",
+        "frames": [],
+        "model": ""
+      },
+      "blurb": "Five-part printed enclosure for an ESP32 watering system. Fit a 5 × 5 × 10 in envelope, printed in 7 h 28 min, and ran for five days straight.",
+      "outcome": "I led the mechanical design of a smart watering device that measured air temperature, humidity, soil moisture and light, streamed the data to an MQTT server, and watered a plant on its own. My five-part enclosure met every packaging rule in the brief: it fit the 5 × 5 × 10 in volume, printed in 7 h 28 min against an 8-hour limit, and held every component without tape or glue. The finished unit ran for five consecutive days in the Stevens Integration Lab.",
+      "sections": [
+        {
+          "heading": "The brief",
+          "body": "Design and build a standalone IoT device that monitors a plant's environment and decides when to water it.",
+          "bullets": [
+            "Measure air temperature, humidity, soil moisture and illumination",
+            "Publish readings to an MQTT server every 10 minutes",
+            "Supply 20 mL of water every 24 hours, plus 20 mL more when the soil is too dry",
+            "Fit within 5 × 5 × 10 in, including the water bottle",
+            "Print in under 8 hours on a FlashForge Adventurer 3",
+            "Fasten every component securely, with no tape or glue"
+          ]
+        },
+        {
+          "heading": "What I designed",
+          "body": "I sketched one of the three initial concepts, then modeled the team's chosen layout in SolidWorks as five interlocking parts and prepared every file for printing.",
+          "bullets": [
+            "Inner slide: the structural core, with mounting holes, pockets and supports that hold the ESP32, sensors and pump",
+            "Inner shelf: a platform with cutouts for the soil-sensor wires and water straw, a clip for the ESP32 and an integrated pump mount",
+            "Outer shell: a book-shaped cover that slides over the inner slide to protect the electronics",
+            "Bottle clip and straw: hold the water bottle as part of the unit and route water to the soil",
+            "M3 bolts and friction fits throughout; the ESP32's USB port and every sensor face stay accessible"
+          ]
+        },
+        {
+          "heading": "Iterating to the constraints",
+          "body": "The first inner slide was wide, bulky and had no mounting holes. Over several prints I narrowed the body, removed mass to recover print time, shortened the footprint and added mounting features as we learned what each component needed. The shelf went through the same cycle and gained the ESP32 clip and wire pass-throughs. Prints were done in black, yellow and blue as the design evolved."
+        },
+        {
+          "heading": "Results",
+          "body": "The device was deployed December 3 to 9, 2025 and ran for about 120 hours on lab Wi-Fi. It logged 75–83 °F air temperatures, 50–65 % soil moisture, and light readings that dropped to zero every night when the lab lights went off. Watering ran on schedule throughout. The team's main lesson was to spend more time testing early: the soil sensor never reported the 30 % threshold, which pointed to a calibration issue we would fix with better sensors next time."
+        },
+        {
+          "heading": "Team",
+          "body": "William Smith built the electrical system and Benjamin Umbrino wrote the ESP32 software. I owned the mechanical design and helped with assembly."
+        }
+      ],
+      "specs": [
+        {
+          "label": "Outer shell",
+          "value": "2 h 39 min"
+        },
+        {
+          "label": "Inner slide",
+          "value": "3 h 11 min"
+        },
+        {
+          "label": "Straw",
+          "value": "51 min"
+        },
+        {
+          "label": "Inner shelf",
+          "value": "32 min"
+        },
+        {
+          "label": "Bottle clip",
+          "value": "4 min"
+        },
+        {
+          "label": "Total print time",
+          "value": "7 h 28 min"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "Phase I",
+          "text": "Individual concept sketches"
+        },
+        {
+          "date": "Phase II",
+          "text": "Team selects a concept; SolidWorks modeling begins"
+        },
+        {
+          "date": "Phase III",
+          "text": "Print, test and revise slide, shelf and shell"
+        },
+        {
+          "date": "Dec 3–9, 2025",
+          "text": "Five-day deployment in the Integration Lab"
+        },
+        {
+          "date": "Dec 13, 2025",
+          "text": "Final report submitted"
+        }
+      ],
+      "gallery": [
+        {
+          "src": "assets/projects/smart-watering-device/deployed.jpg",
+          "caption": "The finished unit deployed next to its plant"
+        },
+        {
+          "src": "assets/projects/smart-watering-device/iterations.jpg",
+          "caption": "Inner slide and shelf iterations, from the bulky first print to the final version"
+        },
+        {
+          "src": "assets/projects/smart-watering-device/enclosure-shell.jpg",
+          "caption": "Outer book-shaped shell and inner slide"
+        },
+        {
+          "src": "assets/projects/smart-watering-device/inner-shelf-cad.jpg",
+          "caption": "Inner shelf in SolidWorks"
+        },
+        {
+          "src": "assets/projects/smart-watering-device/assembly-drawing.jpg",
+          "caption": "Assembly drawing with bill of materials"
+        },
+        {
+          "src": "assets/projects/smart-watering-device/part-drawings.jpg",
+          "caption": "Bottle clip and straw part drawings"
+        },
+        {
+          "src": "assets/projects/smart-watering-device/slicer.jpg",
+          "caption": "Slicing the inner slide for the Adventurer 3"
+        }
+      ]
+    },
+    {
+      "id": "sensor-robot",
+      "title": "Autonomous ultrasonic sensor robot",
+      "subtitle": "A two-motor robot that drives, stops at a wall and returns to its start",
+      "category": "Coursework",
+      "context": "ENGR 122, Stevens",
+      "period": "Spring 2026",
+      "status": "Complete",
+      "team": "3 students",
+      "role": "Primary designer and builder",
+      "tools": [
+        "SolidWorks",
+        "FDM printing",
+        "Arduino / C++"
+      ],
+      "hidden": false,
+      "cover": "assets/projects/sensor-robot/robot-front.jpg",
+      "preview": {
+        "type": "image",
+        "frames": [],
+        "model": ""
+      },
+      "blurb": "Printed chassis, two drive motors and an ultrasonic sensor. Passed all three autonomous road-test tasks.",
+      "outcome": "I designed and built the robot for my group: a 3D-printed chassis modeled in SolidWorks, two drive motors, an ultrasonic distance sensor and an OLED display. Running code we wrote together, it completed all three road-test tasks autonomously: drive at least 6 ft, stop within 4 in of a wall, and return to where it started.",
+      "sections": [
+        {
+          "heading": "Road test",
+          "bullets": [
+            "Task 1: drive at least 6 ft down the track. Passed.",
+            "Task 2: drive toward the far wall and stop within 4 in, using the ultrasonic sensor to cut the motors at 10 cm. Passed.",
+            "Task 3: stop at the wall, then reverse to the starting position. Passed."
+          ]
+        },
+        {
+          "heading": "How task 3 works",
+          "body": "On startup the robot records its distance to the wall. It drives forward until the sensor reads 12 cm, pauses, then reverses until the reading is back within 2 cm of the starting distance. It's a simple two-state machine, but it depends on a stiff chassis and a sensor mounted square to the wall, which is where the mechanical design mattered."
+        },
+        {
+          "heading": "OLED readout",
+          "body": "In an earlier lab we wired an SSD1306 OLED over I2C to show the live motor command and the sensor distance in centimeters while the motor value swept from 90 to 180, which made it much easier to debug the sensor before the road test."
+        },
+        {
+          "heading": "Team",
+          "body": "Built with Francesca Maddock and Declan Duggan."
+        }
+      ],
+      "specs": [
+        {
+          "label": "Chassis",
+          "value": "3D-printed, SolidWorks assembly"
+        },
+        {
+          "label": "Drive",
+          "value": "2 motors, PWM control"
+        },
+        {
+          "label": "Sensing",
+          "value": "Ultrasonic distance sensor"
+        },
+        {
+          "label": "Display",
+          "value": "SSD1306 OLED over I2C"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "Lab",
+          "text": "OLED display and motor sweep"
+        },
+        {
+          "date": "Build",
+          "text": "Chassis modeled, printed and wired"
+        },
+        {
+          "date": "Road test",
+          "text": "All three autonomous tasks completed"
+        }
+      ],
+      "gallery": [
+        {
+          "src": "assets/projects/sensor-robot/robot-front.jpg",
+          "caption": "The finished robot"
+        },
+        {
+          "src": "assets/projects/sensor-robot/robot-side.jpg",
+          "caption": "Side view showing the ultrasonic sensor and wiring"
+        },
+        {
+          "src": "assets/projects/sensor-robot/chassis-slicer.jpg",
+          "caption": "Chassis prepared for printing"
+        },
+        {
+          "src": "assets/projects/sensor-robot/oled-circuit.jpg",
+          "caption": "Bench circuit for the OLED lab"
+        },
+        {
+          "src": "assets/uploads/sensor-robot/screenshot_2026-04-28_225021-1.png",
+          "caption": ""
+        },
+        {
+          "src": "assets/uploads/sensor-robot/robot_sensor_holder-1-.stl.stl",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "silicone-intake-wheel",
+      "title": "Cast silicone intake wheels",
+      "subtitle": "Custom molded wheels for an FTC robot's roller intake",
+      "category": "Student team",
+      "context": "FTC Team 10738, INTO THE DEEP season",
+      "period": "Fall 2024",
+      "status": "Complete",
+      "team": "Intake subteam",
+      "role": "Intake-system lead; wheel designer and caster",
+      "tools": [
+        "Fusion 360",
+        "PLA and TPU printing",
+        "Silicone casting"
+      ],
+      "hidden": false,
+      "cover": "assets/uploads/silicone-intake-wheel/screenshot_2026-10-30_172021-1.png",
+      "preview": {
+        "type": "image",
+        "frames": [],
+        "model": ""
+      },
+      "blurb": "Replaced off-the-shelf compliant wheels with silicone wheels cast in my own printed molds, then added a TPU core for faster, more precise grabbing.",
+      "outcome": "To grip game pieces better than modified AndyMark compliant wheels, I designed a roller-intake wheel made of a 3D-printed hub and a cast silicone body, and the two-part molds to make it. Over about six weeks I took the wheel through several versions, ending with a TPU-reinforced silicone wheel that grabbed samples faster and more precisely.",
+      "sections": [
+        {
+          "heading": "The problem",
+          "body": "The team's roller intake had to pull samples out of the field's submersible and hold them long enough for a color sensor to accept or reject them. Stock compliant wheels lacked grip and versatility, so I set out to make wheels tuned to our intake."
+        },
+        {
+          "heading": "How I built it",
+          "bullets": [
+            "Modeled a hub and a two-part mold in Fusion 360, using the team's modified AndyMark compliant wheel as the starting geometry",
+            "Printed the mold and hub, then cast silicone around the hub",
+            "Tested each wheel in the intake prototype and fed the results into the next mold"
+          ]
+        },
+        {
+          "heading": "What went wrong, and what I changed",
+          "body": "The first mold broke during casting because of modeling oversights and handling errors, and the first wheel came out much softer than plastic. I tried a printed sleeve with bullet-shaped retainers to hold surgical tubing, but it gripped worse than the silicone, so I went back to casting. The next version embedded a TPU core inside the silicone, which fixed the excess flexibility and made pickup noticeably quicker. In December I tested a new pink silicone wheel profile in the intake."
+        },
+        {
+          "heading": "Why it matters",
+          "body": "This project is where I learned to design tooling: how a cast part flexes, and how a mold has to be shaped to survive being filled and opened. It built directly on the vectored wheels I made the season before."
+        }
+      ],
+      "specs": [
+        {
+          "label": "Hub",
+          "value": "3D-printed"
+        },
+        {
+          "label": "Tire",
+          "value": "Cast silicone; later TPU-reinforced"
+        },
+        {
+          "label": "Tooling",
+          "value": "Printed two-part mold"
+        },
+        {
+          "label": "CAD",
+          "value": "Fusion 360 (intake roller.f3z)"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "Nov 4, 2024",
+          "text": "First cast wheel; mold breaks and wheel is too soft"
+        },
+        {
+          "date": "Early Nov",
+          "text": "Tested a printed surgical-tubing sleeve; reverted to silicone"
+        },
+        {
+          "date": "Nov 13, 2024",
+          "text": "Silicone wheel with embedded TPU: faster, more precise pickup"
+        },
+        {
+          "date": "Dec 6, 2024",
+          "text": "New pink silicone wheel profile tested in the intake"
+        }
+      ],
+      "gallery": [
+        {
+          "src": "assets/uploads/silicone-intake-wheel/screenshot_2026-10-30_172021-1.png",
+          "caption": ""
+        },
+        {
+          "src": "assets/uploads/silicone-intake-wheel/screenshot_2026-10-30_171832-1.png",
+          "caption": ""
+        },
+        {
+          "src": "assets/projects/silicone-intake-wheel/pink-silicone-wheel.jpg",
+          "caption": "The December pink silicone wheel"
+        },
+        {
+          "src": "assets/projects/silicone-intake-wheel/wheels-in-intake.jpg",
+          "caption": "Silicone wheels mounted in the printed intake prototype"
+        },
+        {
+          "src": "assets/uploads/silicone-intake-wheel/screenshot_2026-10-30_172444-1.png",
+          "caption": ""
+        },
+        {
+          "src": "assets/projects/silicone-intake-wheel/first-cast-wheel-side.jpg",
+          "caption": "First cast wheel, side view"
+        },
+        {
+          "src": "assets/projects/silicone-intake-wheel/first-cast-wheel.jpg",
+          "caption": "First cast wheel on its printed hub"
+        }
+      ]
+    },
+    {
+      "id": "millennium-falcon",
+      "title": "LEGO Millennium Falcon in SolidWorks",
+      "subtitle": "A 1:1 assembly of LEGO set 30708, every brick modeled by hand",
+      "category": "Personal",
+      "context": "Self-directed SolidWorks practice",
+      "period": "Fall 2025",
+      "status": "Complete",
+      "team": "Solo",
+      "role": "Modeler",
+      "tools": [
+        "SolidWorks"
+      ],
+      "hidden": false,
+      "cover": "assets/uploads/millennium-falcon/screenshot_2026-10-30_153905-1.png",
+      "preview": {
+        "type": "spec",
+        "frames": [],
+        "model": ""
+      },
+      "blurb": "To learn SolidWorks after years in Fusion 360, I modeled all 22 unique parts of a LEGO set and mated them into one assembly.",
+      "outcome": "Coming into Stevens I had only modeled in Fusion 360. To learn SolidWorks and get better at assemblies, I set myself the challenge of rebuilding LEGO set 30708 at full scale: I modeled every unique part from standard LEGO system dimensions, then mated them into a complete assembly.",
+      "sections": [
+        {
+          "heading": "Approach",
+          "bullets": [
+            "Researched standard LEGO system dimensions and used them as the design basis for every part",
+            "Modeled 22 unique parts, each saved under its LEGO element number",
+            "Assembled the set with mates that reproduce how the real bricks stack and connect"
+          ]
+        },
+        {
+          "heading": "What I learned",
+          "body": "Building many small parts that must all agree on one grid made me disciplined about design intent and reference geometry, and the assembly taught me how to manage mates across dozens of instances."
+        }
+      ],
+      "specs": [
+        {
+          "label": "Set",
+          "value": "LEGO 30708"
+        },
+        {
+          "label": "Scale",
+          "value": "1:1"
+        },
+        {
+          "label": "Unique parts",
+          "value": "22"
+        },
+        {
+          "label": "CAD",
+          "value": "SolidWorks parts and assembly"
+        }
+      ],
+      "timeline": [],
+      "gallery": [
+        {
+          "src": "assets/uploads/millennium-falcon/lego_millenium_falcon-1-.stl.stl",
+          "caption": ""
+        },
+        {
+          "src": "assets/uploads/millennium-falcon/screenshot_2026-10-30_153905-1.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "vectored-intake-wheels",
+      "title": "Eccentric vectored intake wheels",
+      "subtitle": "A molded-tire wheel stage that centers game pieces in an FTC intake",
+      "category": "Student team",
+      "context": "FTC Team 10738, CENTERSTAGE season",
+      "period": "2023 – 2024",
+      "status": "Complete",
+      "team": "11 students, 2 coaches, 1 mentor",
+      "role": "Builder; designed the intake's secondary wheel stage",
+      "tools": [
+        "Fusion 360",
+        "PLA printing",
+        "Silicone casting"
+      ],
+      "hidden": false,
+      "cover": "assets/uploads/vectored-intake-wheels/screenshot_2026-10-30_173715-1.png",
+      "preview": {
+        "type": "image",
+        "frames": [],
+        "model": ""
+      },
+      "blurb": "Six offset wheels that push pixels sideways to the center of the intake, with silicone tires cast in printed compression molds.",
+      "outcome": "I designed the second stage of the team's roller intake: six eccentric, vectored wheels whose cascading motion moves each game piece perpendicular to its direction of travel and into the center of the intake. After testing surgical tubing and TPU tires, I settled on silicone tires cast in 3D-printed compression molds, which became the tire for that season's robot.",
+      "sections": [
+        {
+          "heading": "The problem",
+          "body": "In CENTERSTAGE, robots collect hexagonal pixels from the floor. The intake's first stage, surgical tubing on a horizontal shaft, pulled pixels in with little driver accuracy needed, but they arrived off-center. The robot needed a second stage that would line each pixel up for the claw."
+        },
+        {
+          "heading": "Design",
+          "body": "Each wheel is eccentric and vectored, so a row of six produces a cascading push toward the centerline. The wheels carry tires for traction on the pixels, and the tire was where most of the design work went."
+        },
+        {
+          "heading": "Prototyping the tires",
+          "bullets": [
+            "Tested surgical tubing, printed TPU and molded silicone tires",
+            "Varied compression pattern, density and size between prototypes",
+            "Modeled two-part compression molds and printed them in PLA",
+            "Filled molds with liquid silicone and cured for 16 hours before demolding and post-processing",
+            "Tested each set on a simulated intake before it went on the robot"
+          ]
+        },
+        {
+          "heading": "Result",
+          "body": "Molded silicone gave the best traction of the materials tested and was used on the final intake. The mold workflow I developed here carried into the next season's cast intake wheels."
+        }
+      ],
+      "specs": [
+        {
+          "label": "Wheels",
+          "value": "6, eccentric and vectored"
+        },
+        {
+          "label": "Tire",
+          "value": "Molded silicone"
+        },
+        {
+          "label": "Mold",
+          "value": "Two-part PLA compression mold"
+        },
+        {
+          "label": "Cure time",
+          "value": "16 hours"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "Step 1",
+          "text": "Surgical-tubing tires"
+        },
+        {
+          "date": "Step 2",
+          "text": "Printed TPU tires"
+        },
+        {
+          "date": "Step 3",
+          "text": "Compression molds modeled and printed"
+        },
+        {
+          "date": "Step 4",
+          "text": "Silicone cast, cured, tested on a simulated intake"
+        }
+      ],
+      "gallery": [
+        {
+          "src": "assets/uploads/vectored-intake-wheels/screenshot_2026-10-30_173715-1.png",
+          "caption": "individual wheel "
+        },
+        {
+          "src": "assets/uploads/vectored-intake-wheels/screenshot_2026-10-30_174232-1.png",
+          "caption": "silicon wheel mold megative "
+        },
+        {
+          "src": "assets/uploads/vectored-intake-wheels/screenshot_2026-10-30_174136-1.png",
+          "caption": "milicon wheel mold "
+        },
+        {
+          "src": "assets/projects/vectored-intake-wheels/wheel-stack-cad.jpg",
+          "caption": "Vectored wheels with tires on the intake shaft (Fusion 360)"
+        }
+      ]
+    },
+    {
+      "id": "hangboard",
+      "title": "Portable pull-up bar hangboard",
+      "subtitle": "A printed climbing edge that mounts on pull-up bar handles",
+      "category": "Personal",
+      "context": "Personal project",
+      "period": "2026",
+      "status": "Complete",
+      "team": "Solo",
+      "role": "Designer and builder",
+      "tools": [
+        "SolidWorks",
+        "FDM printing"
+      ],
+      "hidden": false,
+      "cover": "assets/uploads/hangboard/screenshot-2026-10-30-160809.png",
+      "preview": {
+        "type": "spec",
+        "frames": [],
+        "model": ""
+      },
+      "blurb": "A 30 mm training edge I designed to clip onto my pull-up bar, so I could train finger strength in a concrete-walled dorm room.",
+      "outcome": "Commercial hangboards cost hundreds of dollars and need to be screwed into the wall above a door, which wasn't an option in a concrete-walled dorm. I designed my own: a fully 3D-printed 30 mm edge that mounts on the handles of a pull-up bar and reliably holds my roughly 200 lb body weight.",
+      "sections": [
+        {
+          "heading": "Why I built it",
+          "body": "After a few months of consistent climbing, a hangboard was the next tool I needed to build finger and tendon strength. I wanted something cheap, portable and mountable without drilling."
+        },
+        {
+          "heading": "Design features",
+          "bullets": [
+            "30 mm edge sized for standard finger training",
+            "Form and weight distribution chosen for a stable, sturdy hang with no worry of failure",
+            "Mounts on existing pull-up bar handles with no tools or wall fasteners",
+            "Rope loop through the body so it can hang anywhere for warming up at the crag or gym",
+            "Hole in the back for quickly removing spacer blocks that shorten the edge to raise difficulty"
+          ]
+        },
+        {
+          "heading": "Process",
+          "body": "I modeled it in SolidWorks and went through several printed iterations before landing on this version, testing each one under body weight."
+        }
+      ],
+      "specs": [
+        {
+          "label": "Edge depth",
+          "value": "30 mm"
+        },
+        {
+          "label": "Rated for",
+          "value": "≈ 200 lb body-weight hangs"
+        },
+        {
+          "label": "Build",
+          "value": "Fully 3D-printed"
+        },
+        {
+          "label": "CAD",
+          "value": "SolidWorks part"
+        }
+      ],
+      "timeline": [],
+      "gallery": [
+        {
+          "src": "assets/uploads/hangboard/screenshot-2026-10-30-160809.png",
+          "caption": ""
+        },
+        {
+          "src": "assets/uploads/hangboard/pull_up_bar_hangboard_v2-1-.stl.stl",
+          "caption": ""
+        },
+        {
+          "src": "assets/uploads/hangboard/pull_up_bar_hangboard-1-.stl.stl",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "trebuchet",
+      "title": "Counterweight trebuchet",
+      "subtitle": "A full-size wooden trebuchet, modeled first in Fusion 360",
+      "category": "High school",
+      "context": "The Stony Brook School",
+      "period": "Winter 2025",
+      "status": "Complete",
+      "team": "2 students",
+      "role": "Co-designer and builder",
+      "tools": [
+        "Fusion 360",
+        "Woodworking"
+      ],
+      "hidden": false,
+      "cover": "assets/projects/trebuchet/frame-build.jpg",
+      "preview": {
+        "type": "image",
+        "frames": [],
+        "model": ""
+      },
+      "blurb": "Planned, modeled and built a counterweight trebuchet from 2×4 lumber and plywood, with a bearing-mounted throwing arm.",
+      "outcome": "With a classmate, I designed and built a working counterweight trebuchet. We modeled it in Fusion 360 to check dimensions and structural stability, priced and bought the materials, and built the full-size frame from 2×4 lumber and plywood with a metal axle running in two ball bearings.",
+      "sections": [
+        {
+          "heading": "Plan",
+          "bullets": [
+            "Write a proposal covering goal, materials, construction plan and the math for torque, potential energy and trajectory",
+            "Model the trebuchet in Fusion 360, including the purchased ball bearings",
+            "Build the full-size frame, then fit the arm, axle, bearings and sling"
+          ]
+        },
+        {
+          "heading": "Sourcing",
+          "body": "We built a materials list and compared Lowe's and Home Depot prices item by item before buying: seven 12 ft 2×4s, a 4 × 8 ft sheet of 7/16 in plywood, framing screws and 3/4 in dowels."
+        }
+      ],
+      "specs": [
+        {
+          "label": "Frame",
+          "value": "2×4 lumber, 7/16 in plywood"
+        },
+        {
+          "label": "Pivot",
+          "value": "Metal axle in 2 ball bearings"
+        },
+        {
+          "label": "CAD",
+          "value": "Fusion 360 assembly"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "Proposal",
+          "text": "Goal, materials and construction plan"
+        },
+        {
+          "date": "Jan 18, 2025",
+          "text": "First lumber purchased"
+        },
+        {
+          "date": "Build",
+          "text": "Frame assembled in the shop"
+        }
+      ],
+      "gallery": [
+        {
+          "src": "assets/projects/trebuchet/frame-build.jpg",
+          "caption": "Assembling the A-frame"
+        }
+      ]
+    },
+    {
+      "id": "lightsaber",
+      "title": "Luke Skywalker's lightsaber",
+      "subtitle": "A detailed hilt model, rendered in Fusion 360",
+      "category": "High school",
+      "context": "Sophomore computer modeling class",
+      "period": "2022",
+      "status": "Complete",
+      "team": "Solo",
+      "role": "Modeler",
+      "tools": [
+        "Fusion 360",
+        "Rendering"
+      ],
+      "hidden": false,
+      "cover": "assets/projects/lightsaber/cover.jpg",
+      "preview": {
+        "type": "turntable",
+        "frames": [
+          "assets/projects/lightsaber/turntable/01.jpg",
+          "assets/projects/lightsaber/turntable/02.jpg",
+          "assets/projects/lightsaber/turntable/03.jpg",
+          "assets/projects/lightsaber/turntable/04.jpg",
+          "assets/projects/lightsaber/turntable/05.jpg",
+          "assets/projects/lightsaber/turntable/06.jpg",
+          "assets/projects/lightsaber/turntable/07.jpg",
+          "assets/projects/lightsaber/turntable/08.jpg",
+          "assets/projects/lightsaber/turntable/09.jpg",
+          "assets/projects/lightsaber/turntable/10.jpg",
+          "assets/projects/lightsaber/turntable/11.jpg",
+          "assets/projects/lightsaber/turntable/12.jpg",
+          "assets/projects/lightsaber/turntable/13.jpg",
+          "assets/projects/lightsaber/turntable/14.jpg",
+          "assets/projects/lightsaber/turntable/15.jpg",
+          "assets/projects/lightsaber/turntable/16.jpg",
+          "assets/projects/lightsaber/turntable/17.jpg",
+          "assets/projects/lightsaber/turntable/18.jpg",
+          "assets/projects/lightsaber/turntable/19.jpg",
+          "assets/projects/lightsaber/turntable/20.jpg",
+          "assets/projects/lightsaber/turntable/21.jpg",
+          "assets/projects/lightsaber/turntable/22.jpg",
+          "assets/projects/lightsaber/turntable/23.jpg",
+          "assets/projects/lightsaber/turntable/24.jpg",
+          "assets/projects/lightsaber/turntable/25.jpg",
+          "assets/projects/lightsaber/turntable/26.jpg",
+          "assets/projects/lightsaber/turntable/27.jpg",
+          "assets/projects/lightsaber/turntable/28.jpg",
+          "assets/projects/lightsaber/turntable/29.jpg",
+          "assets/projects/lightsaber/turntable/30.jpg",
+          "assets/projects/lightsaber/turntable/31.jpg",
+          "assets/projects/lightsaber/turntable/32.jpg",
+          "assets/projects/lightsaber/turntable/33.jpg",
+          "assets/projects/lightsaber/turntable/34.jpg",
+          "assets/projects/lightsaber/turntable/35.jpg",
+          "assets/projects/lightsaber/turntable/36.jpg"
+        ],
+        "model": ""
+      },
+      "blurb": "A scale model of the original hilt and blade, built from film reference images, then colored and rendered. Drag to turn it.",
+      "outcome": "For my sophomore computer modeling class I built a scale model of Luke Skywalker's original lightsaber hilt and blade in Fusion 360, working from reference images from the films and online. After finishing the geometry I applied materials and colors and rendered a 360° turntable.",
+      "sections": [
+        {
+          "heading": "Process",
+          "bullets": [
+            "Gathered reference images and established proportions for the hilt",
+            "Modeled the grip, emitter, pommel and control details as separate bodies",
+            "Applied metal, rubber and emissive materials and rendered a turntable"
+          ]
+        },
+        {
+          "heading": "Why it's here",
+          "body": "This was one of my first complete models. It's where I learned to work from reference, keep a model organized by body, and present a design with rendering."
+        }
+      ],
+      "specs": [
+        {
+          "label": "CAD",
+          "value": "Fusion 360"
+        },
+        {
+          "label": "Output",
+          "value": "Rendered 36-frame turntable"
+        }
+      ],
+      "timeline": [],
+      "gallery": []
+    },
+    {
+      "id": "sewing",
+      "title": "Sewing and pattern-making",
+      "subtitle": "Pants, alterations and climbing chalk bags, drafted and sewn by hand",
+      "category": "Outside engineering",
+      "context": "Self-taught",
+      "period": "2024 – now",
+      "status": "Ongoing",
+      "team": "Solo",
+      "role": "Designer, pattern-maker and tailor",
+      "tools": [
+        "Pattern drafting",
+        "Sewing machine"
+      ],
+      "hidden": false,
+      "cover": "assets/projects/sewing/piece-3.jpg",
+      "preview": {
+        "type": "image",
+        "frames": [],
+        "model": ""
+      },
+      "blurb": "Self-taught tailoring: pants from scratch, alterations and chalk bags, each designed, drafted and sewn myself.",
+      "outcome": "Outside engineering I love building things artistically. Over the past couple of years I've taught myself tailoring and pattern-making, and I design, draft and sew every piece in this collection: pants altered to a new fit, pants made from scratch, and climbing chalk bags.",
+      "sections": [
+        {
+          "heading": "How it connects",
+          "body": "Pattern-making is a lot like sheet-metal and mold design: turning a 3D form into flat pieces, planning seams and allowances, and working out the order of assembly before cutting anything."
+        }
+      ],
+      "specs": [],
+      "timeline": [],
+      "gallery": [
+        {
+          "src": "assets/projects/sewing/piece-3.jpg",
+          "caption": "Olive trousers, worn"
+        },
+        {
+          "src": "assets/projects/sewing/piece-2.jpg",
+          "caption": "Olive trousers, drafted from scratch"
+        },
+        {
+          "src": "assets/projects/sewing/piece-1.jpg",
+          "caption": "Pattern pieces cut for a pair of pants"
+        },
+        {
+          "src": "assets/projects/sewing/piece-4.jpg",
+          "caption": "Wide-leg denim"
+        },
+        {
+          "src": "assets/projects/sewing/piece-7.jpg",
+          "caption": "Chalk bag, cinched"
+        },
+        {
+          "src": "assets/projects/sewing/piece-6.jpg",
+          "caption": "Chalk bag with patterned lining"
+        }
+      ]
+    }
+  ]
+}
